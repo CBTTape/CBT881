@@ -1,0 +1,9 @@
+2023-04-03 03:23:29.083859 - Initialized conversion of CBT881
+2023-04-03 03:23:29.145548 - Received CBT.V504.FILE881.PDS from FILE881.XMI 
+2023-04-03 03:23:29.148132 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE881.PDS, moved to PDS/$$$#DATE
+2023-04-03 03:23:29.149356 - Found $$INTRO1.txt (text/plain) in CBT.V504.FILE881.PDS, moved to PDS/$$INTRO1
+2023-04-03 03:23:29.150466 - Found $$NOTE01.txt (text/plain) in CBT.V504.FILE881.PDS, moved to PDS/$$NOTE01
+2023-04-03 03:23:29.151685 - Found $$NOTE02.txt (text/plain) in CBT.V504.FILE881.PDS, moved to PDS/$$NOTE02
+2023-04-03 03:23:29.152605 - Found @FILE881.txt (text/plain) in CBT.V504.FILE881.PDS, moved to PDS/@FILE881
+2023-04-03 03:23:29.154370 - De-xmi-ed JULIANX to CBT881/docs/JULIANX.xls
+2023-04-03 03:23:29.154443 - Found SYSTEMJX.xlsx containing application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, moved to PDS/SYSTEMJX
