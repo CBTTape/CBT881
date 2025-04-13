@@ -1,0 +1,8 @@
+2025-04-13 23:45:21.483691 - Received CBT.V508.FILE881.PDS from FILE881.XMI 
+2025-04-13 23:45:21.484489 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE881.PDS, moved to PDS/$$$#DATE
+2025-04-13 23:45:21.484580 - Found $$INTRO1.txt (text/plain) in CBT.V508.FILE881.PDS, moved to PDS/$$INTRO1
+2025-04-13 23:45:21.484662 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE881.PDS, moved to PDS/$$NOTE01
+2025-04-13 23:45:21.484735 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE881.PDS, moved to PDS/$$NOTE02
+2025-04-13 23:45:21.484796 - Found @FILE881.txt (text/plain) in CBT.V508.FILE881.PDS, moved to PDS/@FILE881
+2025-04-13 23:45:21.484976 - Found JULIANX.xls (application/vnd.ms-excel) in CBT.V508.FILE881.PDS, moved to docs/JULIANX.xls
+2025-04-13 23:45:21.485174 - Found SYSTEMJX.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) in CBT.V508.FILE881.PDS, moved to PDS/SYSTEMJX
